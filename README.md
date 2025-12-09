@@ -1,7 +1,7 @@
 
-**PhysKit** 
+**PyPhysKit** 
 ---
-Physkit is a lightweight Python library for common physics computations.  <br>
+PyPhyskit is a lightweight Python library for common physics computations.  <br>
 It provides basic tools for coordinate conversions, vector operations, numerical integration. Designed to make physics calculations easier for students. <br>
 
 ## Features
